@@ -9,7 +9,6 @@ backcall==0.2.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.7.0
-bzip2==1.0.8
 ca-certificates==2024.3.11
 cachetools==5.3.3
 certifi==2024.2.2
